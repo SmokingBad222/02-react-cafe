@@ -1,0 +1,13 @@
+
+
+.alert{
+
+  background-color: aqua;  
+}
+.success {
+  background-color: green;
+}
+
+.error {
+  background-color: red;
+}
